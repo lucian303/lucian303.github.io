@@ -1,4 +1,4 @@
-.site-footer, .page-content {
+.site-footer, .page-content, .post {
     text-align: center;
 }
 
@@ -7,7 +7,7 @@
     width: 75%;
 }
 
-.blog, .about, .post {
+.blog, .about {
     text-align: left;
 }
 
@@ -24,7 +24,7 @@ body {
 }
 
 p {
-    font-size: 16pt;
+    font-size: 14pt;
     justify-content: flex-end;
 }
 
@@ -45,4 +45,8 @@ a {
 
 .page-header {
     text-align: center;
+}
+
+.post-contents {
+    text-align: left;
 }

@@ -7,7 +7,7 @@ title: Blog
     <div class="post">
         <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
         <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-        {{ post.content }}
+        <div class="post-contents">{{ post.content }}</div>
     </div>
     {% endfor %}
     <p class="rss-subscribe">subscribe <a href='{{ "/feed.xml" | prepend: site.baseurl }}'>via RSS</a></p>
