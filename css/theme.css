@@ -2301,7 +2301,7 @@ aside #lang_sel {
 	body .resp-tabs-container{width: 96% !important;margin: 0 2%;}
 
 	/*styles for responsive full header*/
-	.resp_full_width_menu>.container{display:none;}
+	.resp_full_width_menu>.container{display:block;}
 	.resp_full_width_menu>.site-header{display:block;}
 	.resp_full_width_menu.head-container{background-image:none;float:left;min-height:0}
 	.resp_full_width_menu #header_language_select{display:block;}
