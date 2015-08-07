@@ -1,7 +1,8 @@
 # Site settings
 title: Lucianux
 email: lucian303@gmail.com
-description: > Lucianux: Lucian++ Linux. Software Consulting.
+description: >
+  Lucianux: Lucian++ Linux. Software Consulting.
 baseurl: ""
 url: "http://lucianux.com"
 twitter_username: lucianux
