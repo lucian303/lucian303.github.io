@@ -2,17 +2,12 @@
     text-align: center;
 }
 
-.page-content {
+.page-content, .post-content {
     margin: 0 auto;
     width: 75%;
 }
 
-.post-list {
-    list-style-type: none;
-    list-style-position: inside;
-}
-
-.blog, .about {
+.blog, .about, .post {
     text-align: left;
 }
 
@@ -22,4 +17,32 @@
 
 .post {
     margin: 0 auto 60px 0;
+}
+
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+p {
+    font-size: 16pt;
+    justify-content: flex-end;
+}
+
+h2 {
+    font-size: 18pt;
+    border-bottom: 2px solid #f15a23
+}
+
+a {
+    text-decoration: none;
+    color: #777;
+}
+
+.post-title {
+    padding: 0 !important;
+    text-align: center;
+}
+
+.page-header {
+    text-align: center;
 }
