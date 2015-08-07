@@ -19,3 +19,7 @@
 .rss-subscribe {
     text-align: center;
 }
+
+.post {
+    margin: 0 auto 60px 0;
+}
