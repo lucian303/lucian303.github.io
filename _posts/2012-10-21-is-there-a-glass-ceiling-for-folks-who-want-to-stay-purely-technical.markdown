@@ -28,7 +28,7 @@ tags:
 - software industry
 - software
 ---
-<p><a href="http://lucianux.com/wp-content/uploads/2012/10/glassceiling.jpg"><img class="aligncenter size-full wp-image-619" title="Glass Ceiling" src="http://lucianux.com/wp-content/uploads/2012/10/glassceiling.jpg" alt="Glass Ceiling" width="384" height="480" /></a></p>
+<p><a href="http://lucianux.com/wp-content/uploads/2012/10/glassceiling.jpg"></a></p>
 <p>That is the question that came in my mailbox in the latest O'Reilly Code Newsletter. I've been thinking about this for months, so I felt compelled to answer and expound here:</p>
 <p>Absolutely! There is no question that such a glass ceiling exists.</p>
 <p>Many have blogged about this, and in reality the ceiling almost always exists and is hit early on in life by all good engineers who want to stay technical (usually in the mid to late 20's or early 30's). At the Senior Engineer / Architect level, two positions that are now, and have been for quite awhile, merging with the adoption of agile methodologies especially in web development, there is no more room for carrer advancement inside an organization or even by leaving the organization in most cases.</p>

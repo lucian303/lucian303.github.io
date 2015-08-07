@@ -29,7 +29,7 @@ tags:
 - boss
 - manager
 ---
-<p><a href="http://lucianux.com/wp-content/uploads/2011/11/office-politics.jpg"><img class="aligncenter size-full wp-image-576" title="Office Politics" src="http://lucianux.com/wp-content/uploads/2011/11/office-politics.jpg" alt="Office Politics" width="640" height="343" /></a></p>
+<p><a href="http://lucianux.com/wp-content/uploads/2011/11/office-politics.jpg"></a></p>
 <p>I was just reading&nbsp;<a title="Don't Dismiss Office Politics&mdash;Teach It" href="http://online.wsj.com/article/SB10001424053111904060604576570574190457198.html?mod=wsj_share_in_bot" target="_blank">Don't Dismiss Office Politics&mdash;Teach It</a>&nbsp;and thinking about my own and others' experiences with this subject. While the Wall Street Journal article focuses on executives, dismissing the role of office politics in non-executive jobs can be quite harmful to one's career.</p>
 <p>Now mind you, most office politics are completely ridiculous and counterproductive.</p>
 <p>That's right: <strong>counterproductive</strong>.</p>

@@ -29,7 +29,7 @@ tags:
 - working conditions
 - fair employment
 ---
-<p><a href="http://lucianux.com/wp-content/uploads/2013/07/no-vacation.jpg"><img class="aligncenter size-full wp-image-646" alt="No Vacation" src="http://lucianux.com/wp-content/uploads/2013/07/no-vacation.jpg" width="640" height="360" /></a></p>
+<p><a href="http://lucianux.com/wp-content/uploads/2013/07/no-vacation.jpg"></a></p>
 <p>Recently, I've come across a slew of companies that are offering as a perk "unlimited" or "untracked" vacation. Mostly arising from unscrupulous startups, this is listed as a perk, a benefit of working there and something that would make employment at the company great because you can "take time off whenever you want for as long as you want to recharge."</p>
 <p>Or some other such nonsense.</p>
 <p>Do people actually fall for this ploy? Having seen some of the contracts these companies sign, in the vacation section, there is just vague wording that there are no set vacation days and the policy is left up to the discretion of the manager and the company.</p>
