@@ -1,0 +1,21 @@
+.site-footer, .page-content {
+    text-align: center;
+}
+
+.page-content {
+    margin: 0 auto;
+    width: 75%;
+}
+
+.post-list {
+    list-style-type: none;
+    list-style-position: inside;
+}
+
+.blog, .about {
+    text-align: left;
+}
+
+.rss-subscribe {
+    text-align: center;
+}
