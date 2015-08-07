@@ -1,4 +1,4 @@
-.site-footer, .page-content, .post {
+.site-footer, .page-content, .post, .home {
     text-align: center;
 }
 
@@ -49,4 +49,14 @@ a {
 
 .post-contents {
     text-align: left;
+}
+
+#slidy-container {
+    width: 640px;
+    height: 520px;
+    margin: 0 auto;
+}
+
+.site-footer {
+    margin-top: 10px;
 }
