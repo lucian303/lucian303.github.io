@@ -2275,7 +2275,7 @@ aside #lang_sel {
 @media only screen and (max-width:767px) {
 	.page-container{margin-bottom:40px;}
     /* nav menu ul & select */
-	.menu { display:none; }
+	.menu { display:block; }
 	#header_language_select{display:none;}
 	.widget_nav_menu .menu {display:block;}
 	.main-navigation { float:none !important; }
