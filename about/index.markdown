@@ -1,0 +1,8 @@
+---
+layout: default
+---
+<p>Lucianux is a professional software consulting firm that specializes in, but does not limit itself to, web development and architecture. We do all types of work to deliver high-quality products: everything from project planning, to management, to architecture and coding. I’m the owner and principal consultant, but I sometimes work with other consultants as needed.</p>
+
+<p>Please check out my portfolio, resume, Github, and LinkedIn. I’m quite passionate about great engineering and good, clean code. I have been a member of the open source community since 1996 and try to contribute as time allows. Currently, I’m exploring Clojure development.</p>
+
+<p>I discovered computer programming at an early age and by the time I was twelve, I was programming during most of my free time. Over twenty years later, I have worked on hundreds of programs, from video games to utilities, to databases, and of course, web applications. I program over a dozen languages including PHP, Javascript, Scala, Clojure, and C/C++. I also do planning, estimates, product management, architecture, QA, and design–everything necessary to deliver a product from idea to finalized solution.</p>
