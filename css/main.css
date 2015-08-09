@@ -1,4 +1,4 @@
-.site-footer, .page-content, .post, .home {
+.site-footer, .page-content, .home {
     text-align: center;
 }
 
@@ -17,6 +17,7 @@
 
 .post {
     margin: 0 auto 60px 0;
+    text-align: left;
 }
 
 body {
@@ -43,7 +44,7 @@ a {
     text-align: center;
 }
 
-.page-header {
+.page-header, .post-header {
     text-align: center;
 }
 
