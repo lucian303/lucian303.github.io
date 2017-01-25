@@ -70,3 +70,7 @@ a {
 .center {
     text-align: center;
 }
+
+.wrapper {
+    font-size: 8px;
+}
